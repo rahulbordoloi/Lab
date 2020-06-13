@@ -1,2 +1,2 @@
 # Lab
-Codes for Programs that are being asked to perform in Lab.
+Codes for Programs that were being asked to perform in Lab.
